@@ -3,5 +3,3 @@ persona
 lapicera
 papeles
 señaladores
-fibrones
-bandas elásticas
