@@ -1,0 +1,4 @@
+mesa
+persona
+lapicera
+papeles
